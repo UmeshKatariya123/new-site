@@ -484,7 +484,7 @@ footer{
         background-color: #1ce1ac;
         position: absolute;
         top: 50%;
-        right: 5%;
+        right: -32%;
         transform: translateY(-50%);
         border: 1px solid #1ce1ac;
         color: var(--text-white);
